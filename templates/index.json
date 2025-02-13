@@ -31,8 +31,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "The easiest reusable packaging with eco friendly blockchain and AI technology under the hood.",
+            "text_style": "subtitle"
           }
         },
         "button": {
