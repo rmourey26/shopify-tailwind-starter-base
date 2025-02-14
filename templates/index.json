@@ -242,7 +242,7 @@
           "settings": {
             "heading": "How it Works",
             "icon": "check_mark",
-            "row_content": "<ol><li>Receive package</li><li>Remove product</li><li>Fold mailer</li><li>Peel off shipping label to reveal the prepaid return address …. and…</li><li>Pop it in the mailbox for the cost of a stamp!</li></ol>",
+            "row_content": "<ol><li>Receive package</li><li>Remove product</li><li>Fold mailer</li><li>Peel off shipping label to reveal the prepaid return address …. and…</li></ol>{{ block.settings.page.content }}<ol><li>Pop it in the mailbox for the cost of a stamp!</li></ol>",
             "page": ""
           }
         },
