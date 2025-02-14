@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<script src=\"https://fast.wistia.com/embed/medias/hiw8tval96.jsonp\" async></script>\n<script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script>\n<div class=\"aspect-ratio box-content w-auto\">\n    <div class=\"wistia_embed wistia_async_hiw8tval96 seo=true videoFoam=true w-auto aspect-ratio\">\n      <div class=\"wistia_swatch w-auto\"\n        >\n        <img src=\"https://fast.wistia.com/embed/medias/hiw8tval96/swatch\" class=\"w-auto aspect ratio\" />\n      </div>\n    </div>\n</div>",
+        "custom_liquid": "<script src=\"https://fast.wistia.com/embed/medias/hiw8tval96.jsonp\" async></script>\n<script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script>\n<div class=\"wistia_responsive_padding twcss-p-1\">\n<div class=\"twcss-aspect-ratio twcss-box-content twcss-w-auto\">\n    <div class=\"wistia_embed wistia_async_hiw8tval96 seo=true videoFoam=true twcss-w-auto twcss-aspect-ratio\">\n      <div class=\"wistia_swatch twcss-w-auto\"\n        >\n        <img src=\"https://fast.wistia.com/embed/medias/hiw8tval96/swatch\" class=\"twcss-w-auto\" />\n      </div>\n    </div>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
