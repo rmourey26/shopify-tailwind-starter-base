@@ -31,7 +31,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "The easiest reusable packaging with eco friendly blockchain and AI technology under the hood.",
+            "text": "Easy to use, patented reusable packaging with eco-friendly blockchain and AI technology under the hood.",
             "text_style": "subtitle"
           }
         },
@@ -52,7 +52,6 @@
         "text",
         "button"
       ],
-      "disabled": true,
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -72,14 +71,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Resend-It the Movement",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Easy to use patented reusable packaging with eco-friendly blockchain and AI technology under the hood. </p>"
           }
         }
       },
