@@ -54,6 +54,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG-20250203-WA0007.jpg",
         "image_overlay_opacity": 40,
@@ -89,7 +90,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Resend-It the Movement",
+            "heading": "Resend-It is a Movement",
             "heading_size": "h1"
           }
         },
